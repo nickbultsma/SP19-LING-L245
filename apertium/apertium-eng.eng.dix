@@ -30,7 +30,7 @@
 		<e lm="gramophone"><i>gramophone</i><par n="gramophone__n"/></e>
 		<e lm="source"><i>source</i><par n="source__n"/></e>
 		<e lm="see"><i>s</i><par n="s/ee__vblex"/></e>
-		<e lm="personal subject pronouns"><i/><par n="prsubj__prn"/></e>S
+		<e lm="personal subject pronouns"><i/><par n="prsubj__prn"/></e>
 		<e lm="record player"><i>record<b/>player</i><par n="gramophone__n"/></e>
 	</section>
 </dictionary>
